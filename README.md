@@ -1,4 +1,7 @@
-# Sphinx-Rust [![Build Status](https://travis-ci.org/kellpossible/sphinx-rust.svg?branch=master)](https://travis-ci.org/kellpossible/sphinx-rust) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+# Sphinx-Rust 
+
+> **Note: Forked from [kellpossible](https://github.com/kellpossible/sphinx-rust). 
+> Updated for newer versions of Sphinx. Planned autodoc using RustDoc JSON output.
 
 An effort to get rust documentation in Sphinx.
 
